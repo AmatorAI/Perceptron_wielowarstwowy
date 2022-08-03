@@ -3,9 +3,9 @@
 ### Celem projektu będzie zbudowanie prostej sieci neuronowej za pomocą biblioteki SKLEARN.
 
 
-My neural network will learn to detect emotions from pictures of different characters and people's faces. I will use a popular data set for training FER2013.
 
-![Picture error](https://github.com/Krystiann/BootCamp_project/blob/main/pictures_of_emotions/face%20example1.png)
+
+![Picture error](https://github.com/AmatorAI/Perceptron_wielowarstwowy/blob/main/img/nn.png)
 
 Originally there are 7 emotions in the dataset. Unfortunately, the data containing 'Disgust' is very unbalanced. That's why I decided to combine 'Disgust' with 'Angry'. The images of these two labels are hard to distinguish even for me.
 
